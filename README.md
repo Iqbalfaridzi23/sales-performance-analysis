@@ -150,5 +150,5 @@ Setiap query di `04_business_questions.sql` memuat hasil yang diharapkan di kome
 
 ## Kontak
 
-**<Iqbal Alfaridzi Balman>**, lulusan Teknik Informatika, Universitas Tarumanagara
-LinkedIn: <Iqbal Balman> | Email: <balmanlaw@gmail.com>
+**Iqbal Alfaridzi Balman**, lulusan Teknik Informatika, Universitas Tarumanagara
+LinkedIn: Iqbal Balman | Email: <balmanlaw@gmail.com>
