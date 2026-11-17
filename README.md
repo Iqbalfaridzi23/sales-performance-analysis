@@ -38,7 +38,7 @@ Manajemen perlu laporan kinerja penjualan untuk rapat strategi tahun depan. Duga
 |---|---|
 | Python (pandas, matplotlib) di Jupyter Notebook | Cleaning, EDA, visualisasi |
 | SQL (PostgreSQL) | Agregasi dan analisis dengan CTE dan window function |
-| Power BI | Dashboard interaktif *(opsional, lihat folder `dashboard/`)* |
+| Power BI | Dashboard interaktif*
 | Git dan GitHub | Version control dan publikasi |
 
 ## 4. Struktur Repositori
